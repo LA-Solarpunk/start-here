@@ -13,3 +13,9 @@ Co-Operative Solar Punk Living
 https://github.com/LA-Solarpunk/Radiant-City-Zine
 
 The Zine of LA Solar Punk
+
+
+## Reading Room
+https://github.com/LA-Solarpunk/reading-room/blob/main/README.md
+
+References to other texts
